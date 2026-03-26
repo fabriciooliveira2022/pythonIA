@@ -1,0 +1,15 @@
+streamlit==1.33.0
+pandas==2.2.2
+plotly==5.22.0
+
+# IA
+langchain==0.2.14
+langchain-community==0.2.12
+langchain-experimental==0.0.65
+ollama==0.3.3
+
+# Banco de dados
+psycopg2-binary==2.9.9
+
+# Utilidades
+python-dotenv==1.0.1
